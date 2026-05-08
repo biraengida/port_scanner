@@ -72,7 +72,7 @@ Special Thanks
 
 A huge thank you to my brother for helping me build this project!
 
-Check him out on GitHub: (greattitandev)[https://github.com/greattitandev]
+Check him out on GitHub: [greattitandev](https://github.com/greattitandev)
 
 Created By
 
